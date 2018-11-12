@@ -1,0 +1,11 @@
+NO activation fn
+
+including bband data
+
+mae high prediction : 0.02206567148208966
+mae low prediction : 0.019964309769330873
+
+no bband(looks better on graph):
+
+mae high prediction : 0.01818855458054548
+mae low prediction : 0.017546687127140057
